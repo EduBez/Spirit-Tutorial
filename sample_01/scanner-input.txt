@@ -1,0 +1,2 @@
+<IMG SRC="image.jpg" alt="example 1">
+<IMG src="image2.jpg" ALT="example 2">
